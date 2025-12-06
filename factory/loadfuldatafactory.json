@@ -1,0 +1,9 @@
+{
+	"name": "loadfuldatafactory",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dc5e689e-c411-410f-b967-5994a50878c8",
+		"tenantId": "8faaeb77-58f2-4365-a62c-9ba191566dd1"
+	}
+}
